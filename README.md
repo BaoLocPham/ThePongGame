@@ -3,8 +3,7 @@ Pong game with OOP paradigm and sound
 
 this game was made by using basic UI turtle class, winsound.
 
-# I struggle with this project when converting The whole project in to executable .exe files
-# because of the pyinstaller convention of references and additional files.
+# I struggle with this project when converting The whole project in to executable .exe files because of the pyinstaller convention of references and additional files.
 
 if you interested in this game music, here are list of music i used:
 
